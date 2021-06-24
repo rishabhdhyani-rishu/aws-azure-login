@@ -10,7 +10,7 @@ If your organization uses [Azure Active Directory](https://azure.microsoft.com) 
 Installation can be done in any of the following platform - Windows, Linux, Docker, Snap
 ### Windows
 
-Install [Node.js](https://nodejs.org/) v12 or higher. Then install aws-azure-login with npm:
+Install [Node.js](https://nodejs.org/) v12 or higher. Then install npm (node package manager)package. Then install aws-azure-login with npm:
 
     npm install -g aws-azure-login
 
