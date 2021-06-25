@@ -18,6 +18,8 @@ You may need to install puppeteer dependency, if you're getting missing chrome o
 
     node <node_modules_dir>/aws-azure-login/node_modules/puppeteer/install.js
 
+For Ubuntu_20: "node /usr/local/lib/node_modules/aws-azure-login/node_modules/puppeteer/install.js"
+
 ### Linux
 
 In Linux you can either install for all users or just the current user. In either case, you must first install [Node.js](https://nodejs.org/) v12 or higher and any [puppeteer dependencies](https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md#chrome-headless-doesnt-launch). Then follow the appropriate instructions.
